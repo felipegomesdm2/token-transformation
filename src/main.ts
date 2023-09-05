@@ -1,6 +1,9 @@
 import "./index.css";
 import App from "./App.svelte";
 
+// Components
+import "../build/button.css";
+
 let app;
 
 const target = document.getElementById("app");

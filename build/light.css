@@ -1,0 +1,40 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 05 Sep 2023 20:58:05 GMT
+ */
+
+:root {
+  --dColorsSemanticPrimary: hsl(258.89, 94.378%, 51.176%); /* required /  Class name: bg-primary, CSS variable: hsl(var(--p)) */
+  --dColorsSemanticPrimaryFocus: hsl(258.89, 94.378%, 40.941%); /* Class name: bg-primary-focus,  CSS variable: hsl(var(--pf)) */
+  --dColorsSemanticPrimaryContent: hsl(0, 0%, 100%); /* Class name: bg-primary-content CSS variable: hsl(var(--pc)) */
+  --dColorsSemanticSecondary: hsl(314, 100%, 47.059%); /* required /  Class name: bg-secondary,  CSS variable: hsl(var(--s)) */
+  --dColorsSemanticSecondaryFocus: hsl(314, 100%, 37.647%); /* Class name: bg-secondary-focus, CSS variable: hsl(var(--sf)) */
+  --dColorsSemanticSecondaryContent: hsl(0, 0%, 100%); /* Class name: bg-secondary-content CSS variable: hsl(var(--sc)) */
+  --dColorsSemanticAccent: hsl(174, 60%, 50.98%); /* requiered /  Class name: bg-accent CSS variable: hsl(var(--a)) */
+  --dColorsSemanticAccentFocus: hsl(174, 60%, 40.784%); /* Class name: bg-accent-focus CSS variable: hsl(var(--af)) */
+  --dColorsSemanticAccentContent: hsl(174.71, 43.59%, 15.294%); /* Class name: bg-accent-content CSS variable: hsl(var(--ac)) */
+  --dColorsBaseNeutral: hsl(219, 14.085%, 27.843%); /* requiered /  Class name: bg-neutral CSS variable: hsl(var(--n)) */
+  --dColorsBaseNeutralFocus: hsl(219, 14.085%, 22.275%); /* Class name: bg-neutral-focus CSS variable: hsl(var(--nf)) */
+  --dColorsBaseNeutralContent: hsl(0, 0%, 100%); /* lass name: bg-neutral-content CSS variable: hsl(var(--nc)) */
+  --dColorsBaseBase100: hsl(0, 0%, 100%); /* requiered /  Class name: bg-base-100 CSS variable: hsl(var(--b1)) */
+  --dColorsBaseBase200: hsl(0, 0%, 94.902%); /* Class name: bg-base-200 CSS variable: hsl(var(--b2)) */
+  --dColorsBaseBase300: hsl(180, 1.9608%, 90%); /* Class name: bg-base-300 CSS variable: hsl(var(--b3)) */
+  --dColorsBaseBaseContent: hsl(215, 27.907%, 16.863%); /* Class name: bg-base-content CSS variable: hsl(var(--bc)) */
+  --dColorsStatusInfo: hsl(258.89, 94.378%, 51.176%); /* Class name: bg-info CSS variable: hsl(var(--in)) */
+  --dColorsStatusInfoContent: hsl(198, 100%, 12%); /* lass name: bg-info-content CSS variable: hsl(var(--inc)) */
+  --dColorsStatusSuccess: hsl(158, 64%, 52%); /* Class name: bg-success CSS variable: hsl(var(--su)) */
+  --dColorsStatusSuccessContent: hsl(158, 100%, 10%); /* Class name: bg-success-content CSS variable: hsl(var(--suc)) */
+  --dColorsStatusWarning: hsl(43, 96%, 56%); /* Class name: bg-warning CSS variable: hsl(var(--wa)) */
+  --dColorsStatusWarningContent: hsl(43, 100%, 11%); /* Class name: bg-warning-content CSS variable: hsl(var(--wac)) */
+  --dColorsStatusError: hsl(0, 91%, 71%); /* Class name: bg-error CSS variable: hsl(var(--er)) */
+  --dColorsStatusErrorContent: hsl(0, 100%, 14%); /* Class name: bg-error-content CSS variable: hsl(var(--erc)) */
+  --dBorderRadiusRoundedBox: 1rem; /* border radius rounded-box utility class, used in card and other large boxes */
+  --dBorderRadiusRoundedBtn: 0.5rem; /* border radius rounded-btn utility class, used in buttons and similar element */
+  --dBorderRadiusRoundedBadge: 1.9rem; /* border radius rounded-badge utility class, used in badges and similar */
+  --dBorderRadiusTabRadius: 0.5rem; /* border radius of tabs */
+  --dOthersButtonsBtnFocusScale: 0.95; /* scale transform of button when you focus on it */
+  --dOthersButtonsBtnWide: 256px; /* scale transform of button when you focus on it */
+  --dTextTransformBtnTextCase: capitalize; /* set default text transform for buttons */
+  --dBorderWidthBorderBtn: 1px;
+  --dBorderWidthTabBorder: 1px;
+}
